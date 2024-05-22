@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-console-log-hello",
+  "version": "1.0.0",
+  "description": "simple console.log return from a POST request",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkredhat/nodejs-console-log-hello.git"
+  },
+  "keywords": [
+    "console"
+  ],
+  "author": "Phillip Knezevich",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkredhat/nodejs-console-log-hello/issues"
+  },
+  "homepage": "https://github.com/pkredhat/nodejs-console-log-hello#readme"
+}
