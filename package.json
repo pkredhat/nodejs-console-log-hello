@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/pkredhat/nodejs-console-log-hello/issues"
   },
-  "homepage": "https://github.com/pkredhat/nodejs-console-log-hello#readme"
+  "homepage": "https://github.com/pkredhat/nodejs-console-log-hello#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
